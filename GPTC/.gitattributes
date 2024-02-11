@@ -1,2 +1,0 @@
-RNN-LSTM/imdb-dataset.csv filter=lfs diff=lfs merge=lfs -text
-RNN-LSTM/wiki.simple.vec filter=lfs diff=lfs merge=lfs -text
